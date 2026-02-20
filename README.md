@@ -111,8 +111,6 @@ The following data is stored locally on your device only and is NOT sent to any 
 
 **EVERYTHING ELSE STAYS ON YOUR DEVICE, AND WE CANNOT ACCESS IT.**
 
-**Important:** Cloud syncing is optional. You can disable it at any time through the App's settings.
-
 **Critical:** This cloud-stored data is:
 - **Not tied to your identity.** We do not store your name, email, or personal identifiers with this data.
 - **Not used for profiling or tracking.** We do not use this data to create user profiles or track individual users.
