@@ -22,7 +22,7 @@ Only the following are stored in our database:
 - Journals
 - Weight tracking
 
-Everything else (prayer times, Quran, hadiths, etc.) is stored on your device. Please note: if you delete the app, this data will be lost.
+Everything else (ToDo Lists, Masjid Tracking, Listening Time, etc.) is stored on your device. Please note: if you delete the app, this data will be lost.
 
 ### How is workout volume calculated?
 Total volume is computed per exercise per workout as the sum of weight × reps across all sets (in lb-reps). Average volume is the mean of those per-workout totals for the selected exercise over your chosen date range (i.e., average volume per session, not per set).
