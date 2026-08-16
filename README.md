@@ -1,7 +1,7 @@
 # Izza Support
 
 ## Contact Us
-**Email:** izza.help@gmail.com
+**Email:** admin@izzah,org
 
 ---
 
