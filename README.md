@@ -1,7 +1,7 @@
 # Izza Support
 
 ## Contact Us
-**Email:** admin@izzah,org
+**Email:** admin@izzah.org
 
 ---
 
@@ -177,7 +177,7 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us at:
 
-**Email:** izza.help@gmail.com
+**Email:** admin@izzah.org
 
 **GitHub:** https://github.com/YamanShqeirat/Izza-Support
 
@@ -186,4 +186,4 @@ If you have questions about this Privacy Policy or our privacy practices, please
 ---
 
 ## Contact
-For questions or support, reach out to us at **izza.help@gmail.com**
+For questions or support, reach out to us at **admin@izzah.org**
